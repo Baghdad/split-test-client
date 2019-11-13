@@ -5,6 +5,6 @@ fs.readFile('./content/test1.txt', 'utf8', function(err, contents) {
     console.error(`Error:${error}!!`);
   } else {
     console.log(`Content:${contents}!`);
-    console.log('Special string');
+    console.log('Special string from code!');
   }
 });
