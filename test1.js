@@ -5,7 +5,8 @@ fs.readFile('./content/test1.txt', 'utf8', function(err, contents) {
     console.error(`Error:${error}!!`);
   } else {
     console.log(`Content:${contents}!`);
-    console.log('Very very special string from code!');
-    console.log('Just to be sure (not)');
+    console.log('Content update: 7');
+    console.log('Client update: 4');
+    console.log('Code update: 1');
   }
 });
