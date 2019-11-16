@@ -1,1 +1,2 @@
-This is assets folder: 1
+Test client repo and some more!
+Another line for test: 8
