@@ -1,1 +1,1 @@
-This is configs folder: 2
+This is assets folder: 1
