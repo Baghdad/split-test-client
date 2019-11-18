@@ -6,7 +6,7 @@ fs.readFile('./content/test1.txt', 'utf8', function(err, contents) {
   } else {
     console.log(`Content:${contents}!`);
     console.log('Content update: 39');
-    console.log('Client update: 21');
+    console.log('Client update: 22');
     console.log('Code update: 6');
   }
 });
